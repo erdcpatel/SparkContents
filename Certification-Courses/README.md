@@ -16,9 +16,11 @@
 
 6) Udemy [Apache Spark 2.0 with Scala - Hands On with Big Data!](https://www.udemy.com/apache-spark-with-scala-hands-on-with-big-data/)
 
-7) Scala 101 from Big Data University(IBM) [SC0101EN](https://bigdatauniversity.com/courses/introduction-to-scala/)
+7) Udemy [Taming Big Data with Apache Spark and Python - Hands On!](https://www.udemy.com/taming-big-data-with-apache-spark-hands-on/)
 
-8) Coursera [Functional Programming in Scala Specialization](https://www.coursera.org/specializations/scala)
+8) Scala 101 from Big Data University(IBM) [SC0101EN](https://bigdatauniversity.com/courses/introduction-to-scala/)
+
+9) Coursera [Functional Programming in Scala Specialization](https://www.coursera.org/specializations/scala)
 * Module-1 Functional Programming Principles in Scala
 * Module-2 Functional Program Design in Scala
 * Module-3 Parallel programming
