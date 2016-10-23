@@ -12,4 +12,4 @@
 
 4) MapReduce and YARN from Big Data University(IBM) [BD0115EN](https://bigdatauniversity.com/courses/mapreduce-and-yarn/) - [Completed](https://courses.bigdatauniversity.com/certificates/user/59587/course/course-v1:BigDataUniversity+BD0115EN+2016)
 
-5) Hadoop Fundamentals I - Version 3 from Big Data University(IBM)[BD0111EN](https://bigdatauniversity.com/courses/introduction-to-hadoop/) - [Completed](https://courses.bigdatauniversity.com/certificates/moodle/fG63F0nnWl-1429030060-1429030072)
+5) Hadoop Fundamentals I - Version 3 from Big Data University(IBM) [BD0111EN](https://bigdatauniversity.com/courses/introduction-to-hadoop/) - [Completed](https://courses.bigdatauniversity.com/certificates/moodle/fG63F0nnWl-1429030060-1429030072)
