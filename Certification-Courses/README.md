@@ -13,3 +13,7 @@
 4) MapReduce and YARN from Big Data University(IBM) [BD0115EN](https://bigdatauniversity.com/courses/mapreduce-and-yarn/) - [Completed](https://courses.bigdatauniversity.com/certificates/user/59587/course/course-v1:BigDataUniversity+BD0115EN+2016)
 
 5) Hadoop Fundamentals I - Version 3 from Big Data University(IBM) [BD0111EN](https://bigdatauniversity.com/courses/introduction-to-hadoop/) - [Completed](https://courses.bigdatauniversity.com/certificates/moodle/fG63F0nnWl-1429030060-1429030072)
+
+6) Scala 101 from Big Data University(IBM) [SC0101EN](https://bigdatauniversity.com/courses/introduction-to-scala/)
+
+7) Udemy [Apache Spark 2.0 with Scala - Hands On with Big Data!](https://www.udemy.com/apache-spark-with-scala-hands-on-with-big-data/)
