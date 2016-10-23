@@ -14,6 +14,13 @@
 
 5) Hadoop Fundamentals I - Version 3 from Big Data University(IBM) [BD0111EN](https://bigdatauniversity.com/courses/introduction-to-hadoop/) - [Completed](https://courses.bigdatauniversity.com/certificates/moodle/fG63F0nnWl-1429030060-1429030072)
 
-6) Scala 101 from Big Data University(IBM) [SC0101EN](https://bigdatauniversity.com/courses/introduction-to-scala/)
+6) Udemy [Apache Spark 2.0 with Scala - Hands On with Big Data!](https://www.udemy.com/apache-spark-with-scala-hands-on-with-big-data/)
 
-7) Udemy [Apache Spark 2.0 with Scala - Hands On with Big Data!](https://www.udemy.com/apache-spark-with-scala-hands-on-with-big-data/)
+7) Scala 101 from Big Data University(IBM) [SC0101EN](https://bigdatauniversity.com/courses/introduction-to-scala/)
+
+8) Coursera [Functional Programming in Scala Specialization](https://www.coursera.org/specializations/scala)
+* Functional Programming Principles in Scala
+* Functional Program Design in Scala
+* Parallel programming
+* Big Data Analysis with Scala and Spark
+* Functional Programming in Scala Capstone
