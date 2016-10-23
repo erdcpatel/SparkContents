@@ -19,8 +19,8 @@
 7) Scala 101 from Big Data University(IBM) [SC0101EN](https://bigdatauniversity.com/courses/introduction-to-scala/)
 
 8) Coursera [Functional Programming in Scala Specialization](https://www.coursera.org/specializations/scala)
-* Functional Programming Principles in Scala
-* Functional Program Design in Scala
-* Parallel programming
-* Big Data Analysis with Scala and Spark
-* Functional Programming in Scala Capstone
+* Module-1 Functional Programming Principles in Scala
+* Module-2 Functional Program Design in Scala
+* Module-3 Parallel programming
+* Module-4 Big Data Analysis with Scala and Spark
+* Module-5 Functional Programming in Scala Capstone
