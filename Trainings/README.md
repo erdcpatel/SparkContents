@@ -1,6 +1,6 @@
 # Apache Spark Trainings
 
-=== Spark Summit 2015 Trainings - [Topics covered](https://spark-summit.org/2015/training/)
+## Spark Summit 2015 Trainings - [Topics covered](https://spark-summit.org/2015/training/)
 
 1) Intro to Apache Spark by Brian Clapper [Session-1](https://youtu.be/PFK6gsnlV5E) [Session-2](https://youtu.be/zLosFjTpV_U?list=PL-x35fyliRwioDix9XjD3HptH8ro55SuB) - [Slides](http://www.slideshare.net/SparkSummit/intro-to-spark-development) 
 
