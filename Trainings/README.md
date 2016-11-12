@@ -8,7 +8,7 @@
 
 * Advanced: Devops with Apache Spark by Sameer Farooqui [Session-1](https://youtu.be/l4ZYUfZuRbU?list=PL-x35fyliRwioDix9XjD3HptH8ro55SuB) [Session-2](https://youtu.be/G7PcSBhfSQo?list=PL-x35fyliRwioDix9XjD3HptH8ro55SuB)- [Slides](https://spark-summit.org/wp-content/uploads/2015/03/SparkSummitEast2015-sample_slides.pdf) 
 
-### Spark Summit JUNE 6 – 8, 2016 SAN FRANCISCO - [Topics covered](https://spark-summit.org/2016/spark-training/) [Training Materials](http://tinyurl.com/Spark-DS-Files﻿)
+### Spark Summit JUNE 6 – 8, 2016 SAN FRANCISCO - [Topics covered](https://spark-summit.org/2016/spark-training/) and [Training Materials](http://tinyurl.com/Spark-DS-Files﻿)
 
 * Apache Spark Essentials  [Session-1](https://youtu.be/OheiUl_uXwo?list=PL-x35fyliRwhDv3g1dae8v2F6-_bzBfGK) [Session-2](https://youtu.be/fROnFlD3Isw?list=PL-x35fyliRwhDv3g1dae8v2F6-_bzBfGK)
 
