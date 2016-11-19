@@ -19,3 +19,5 @@ Spark Papers : http://spark.apache.org/research.html
 [Volcano-An Extensible and Parallel Query Evaluation System](http://ieeexplore.ieee.org/document/273032/) - Till Spark 1.6
 
 [Efficiently Compiling Efficient Query Plans for Modern Hardware](http://www.hyper-db.de/) - Spark 2.0's Whole-stage Code Gen
+
+[Scaling Spark in the Real World: Performance and Usability](https://cs.stanford.edu/~matei/papers/2015/vldb_spark.pdf)
