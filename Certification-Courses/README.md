@@ -26,3 +26,6 @@
 * Module-3 Parallel programming
 * Module-4 Big Data Analysis with Scala and Spark
 * Module-5 Functional Programming in Scala Capstone
+
+10) Cloudera  [CCA Spark and Hadoop Developer Certification](http://www.cloudera.com/training/certification/cca-spark.html)
+    Videos - [ItVersity](https://www.youtube.com/playlist?list=PLf0swTFhTI8rJvGpOp-LujOcpk-Rlz-yE)
