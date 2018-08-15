@@ -8,4 +8,8 @@
 
 [A Tale of Three Apache Spark APIs: RDDs, DataFrames, and Datasets](https://databricks.com/blog/2016/07/14/a-tale-of-three-apache-spark-apis-rdds-dataframes-and-datasets.html)
 
+[Project Hydrogen: State-of-the-Art Deep Learning on Apache Spark Reynold Xin](https://vimeo.com/274267107)
+
+[Bryan Cutler's Blog Posts](https://bryancutler.github.io/)
+
 
