@@ -1,0 +1,15 @@
+{"type":"record",
+"name":"topLevelRecord",
+"fields":[
+    {"name":"title","type":["string","null"]},
+    {
+      "name": "rating",
+      "type": {
+        "type": "string",
+        "logicalType": "decimal",
+        "precision": 38,
+        "scale": 10
+      }
+    }
+    ]
+}
